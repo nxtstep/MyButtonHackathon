@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyButtonHackathon</string>
+    <string name="error">Oops</string>
+    <string name="unknown">No idea</string>
+    <string name="ok">Mkay</string>
+</resources>
